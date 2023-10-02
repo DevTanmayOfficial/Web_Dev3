@@ -1,7 +1,7 @@
 Shery.mouseFollower();
 Shery.makeMagnet(".magnet");
 Shery.hoverWithMediaCircle(".hvr", {
-  videos: ["./0.mp4", "./2.mp4", "./3.mp4"],
+  images: ["https://images.unsplash.com/photo-1695697104675-429f5fcdede6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDl8UzRNS0xBc0JCNzR8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60", "https://images.unsplash.com/photo-1694656937152-b2377c0b5de7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIwfFM0TUtMQXNCQjc0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60", "https://images.unsplash.com/photo-1617143207675-e7e6371f5f5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfFM0TUtMQXNCQjc0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"],
 });
 
 gsap.to(".fleftelm", {
